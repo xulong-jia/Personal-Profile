@@ -14,8 +14,8 @@ I'm a Master of Information Technology student at UNSW, focusing on Python backe
 - Preparing for software development and AI-related internship opportunities
 
 ## Featured Projects
-- CareerAgent: AI-powered job application and interview preparation platform
-- YOLOv8 Object Detection System: Vehicle and pedestrian detection project
+- CareerAgent: AI-powered job application and interview preparation platform. *(In progress)*
+- YOLOv8 Object Detection System: Vehicle and pedestrian detection project. *(Planned)*
 
 ## Contact
 - Email: xulongjia556@gmail.com
